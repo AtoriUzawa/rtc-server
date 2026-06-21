@@ -1,6 +1,7 @@
 # RTC Server
 
 A real-time communication server built on the [Cira](https://github.com/AtoriUzawa/cira) WebSocket framework, providing WebRTC signaling relay, P2P call management, live streaming rooms, and meeting rooms.
+It works together with the RTC Android client: [rtc-android](https://github.com/AtoriUzawa/rtc-android)
 
 ## Introduction
 
